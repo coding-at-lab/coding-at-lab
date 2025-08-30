@@ -23,8 +23,8 @@ My goal is to become a well-rounded developer, making dreams a reality through c
 
 ---
 
-## 📰 Latest Blog Posts
-Currently, I do not have any blog posts. **Stay tuned for updates!**  
+## 📰 Talk To Me On Discord
+**  
 
 ---
 
