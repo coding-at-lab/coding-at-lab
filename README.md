@@ -23,29 +23,11 @@ My goal is to become a well-rounded developer, making dreams a reality through c
 
 ---
 
-## 📊 GitHub Stats
-- 🔭 Public Repositories: **2**  
-- 👥 Followers: **0**  
-- 👤 Following: **0**  
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abdullmanan&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdullmanan&layout=compact&theme=radical)  
-
----
-
-## 📝 Recent Activity
-- 📅 Added `README.md` to **Time-Reminder**  
-- 🛠 Updated project structure in **Time-Reminder**  
-- ✅ Created main branch for **Time-Reminder**  
-- 📦 Initialized repository for **Time-Reminder**  
-
----
-
 ## 📰 Latest Blog Posts
 Currently, I do not have any blog posts. **Stay tuned for updates!**  
 
 ---
 
-## 🌐 Connect with Me  
+## 🌐 Join My Discord Server  
 ### Coding Lab  
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.gg/g258Kn7Vru)  
