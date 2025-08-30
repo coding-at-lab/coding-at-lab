@@ -6,10 +6,9 @@ I am from **Pakistan** and currently learning **Python** 🐍.
 
 ---
 
-## 🌐 My Social Media Profile  
-
+ 
+##Join My Server 
 ### Coding Lab  
-
 [![My Skills](https://skillicons.dev/icons?i=discord)](https://discord.gg/g258Kn7Vru)  
 
 ---
