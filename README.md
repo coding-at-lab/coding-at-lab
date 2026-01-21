@@ -16,6 +16,3 @@ My goal is to become a well-rounded developer, making dreams a reality through c
 [![My Skills](https://skillicons.dev/icons?i=python)]()  
 
 ---
-
-## 📰 Talk To Me On Discord
-username: i_fight_the_self 
