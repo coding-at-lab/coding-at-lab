@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Improving My Self<br>👯 I’m looking to collaborate on my Remnider Project<br>🤝 I’m looking for help with Anything<br>🌱 I’m currently learning Machine Learning<br>⚡ Fun fact I am Human
+🔭 I’m currently working on Improving My Self<br>👯 I’m looking to collaborate on my Remnider Project<br>🤝 I’m looking for People to make opensource Projects<br>🌱 I’m currently learning Machine Learning<br>⚡ Fun fact I am Human
 
 
 ## 🌐 Socials:
