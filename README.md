@@ -6,7 +6,7 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/ua6s8MQqJs) 
 
 
-## 🌐 Language:
+## 🗣 Language:
 1. Urdu (Native)
 2. English (Fluent)
 3. Pashtho (Learning)
